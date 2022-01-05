@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kp-sayed
 - 👀 I’m interested in .Net MVC
-- 🌱 I’m currently learning MVC Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +91 9846377857
 
